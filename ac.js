@@ -1,4 +1,4 @@
-var allowedHostnames = ["qaliboom.blogspot.com"];
+var allowedHostnames = ["qaliboom.blogspot.com""viralpro-ar.blogspot.com"];
 var redirectURL = "http://bit.ly/3hzpOoI";
 
 function checkHostname(hostname, allowedHostnames) {
